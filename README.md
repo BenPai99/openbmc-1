@@ -1,4 +1,4 @@
-# ibm-openbmc
+# wistron-openbmc
 
 ibm-openbmc/openbmc is an IBM downstream fork of
 [openbmc/openbmc](https://github.com/openbmc/openbmc). The purpose is to
